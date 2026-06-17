@@ -2,7 +2,7 @@
 
 A clean, responsive single-page developer portfolio built using Tailwind CSS v4.
 
-# Live LInk
+# Live Link
 responsive-tailwind-portfolio-pract.vercel.app
 
 
