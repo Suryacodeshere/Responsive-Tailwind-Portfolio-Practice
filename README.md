@@ -1,6 +1,6 @@
 # Responsive Tailwind Portfolio
 
-A clean, responsive single-page developer portfolio built using Tailwind CSS v4.
+A clean, responsive single-page developer portfolio built using Tailwind CSS v4 while following Mobile-First Approach.
 
 # Live Link
 https://responsive-tailwind-portfolio-pract.vercel.app
